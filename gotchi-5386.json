@@ -1,0 +1,28 @@
+{
+  "tokenId": "5386",
+  "name": "Magician",
+  "owner": "0x118B427af645e5e696E6DA748BD66aC8E4f5E9A8",
+  "status": 3,
+  "statusName": "Gotchi",
+  "hauntId": "1",
+  "isGotchi": true,
+  "brs": "543",
+  "kinship": "571",
+  "level": "7",
+  "experience": "2220",
+  "modifiedBrs": "563",
+  "collateral": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
+  "stakedAmount": "73.809999999999999",
+  "locked": false,
+  "traits": {
+    "energy": "86",
+    "aggression": "86",
+    "spookiness": "90",
+    "brainSize": "88",
+    "eyeShape": "96",
+    "eyeColor": "91"
+  },
+  "imageType": "👻 Gotchi",
+  "svgSize": 8069,
+  "svgPath": "gotchi-5386.svg"
+}
